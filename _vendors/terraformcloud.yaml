@@ -1,0 +1,8 @@
+---
+base_pricing: $20 per u/m[^terraform]
+name: Terraform
+percent_increase: ???
+pricing_source: https://www.hashicorp.com/products/terraform/pricing
+sso_pricing: Contact us![^terraform]
+updated_at: 2022-07-29
+vendor_url: https://cloud.hashicorp.com/products/terraform
